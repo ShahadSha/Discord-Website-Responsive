@@ -52,23 +52,20 @@ body{
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
     
   }
-.hamburger{
-    white-space: nowrap
+
+  .hide-part-2{
+    white-space: nowrap;
     
   }
 
 @media only screen and (max-width: 1024px) {
-    .top-menu {
-      display: none;
-    }
-    .login-button{
-      display: none;
-    }
+   
+    
  
-      
+  
   }
 @media screen and (min-width: 1024px){
-    .hamburger{
+    .hide-part-2{
       display: none;
       
     }

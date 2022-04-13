@@ -53,6 +53,10 @@ body{
     
   }
 
+  .hide-part-1{
+    white-space: nowrap;
+    
+  }
   .hide-part-2{
     white-space: nowrap;
     
@@ -60,7 +64,9 @@ body{
 
 @media only screen and (max-width: 1024px) {
    
-    
+    .hide-part-1{
+      display: none;
+    }
  
   
   }

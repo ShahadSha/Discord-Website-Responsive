@@ -118,21 +118,21 @@ body {
   top: 40%;
   color: #fff;
   padding-left: 20%;
-  
+
 }
 .text-hero-h1{
   font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
     font-weight: 900;
     font-size: 56px;
     line-height: 95%;
-  
+
 }
 .description-hero{
   line-height: 200%;
-  
+
 }
 .down-button {
-  
+
   background-color: #fff;
   border: none;
   color: black;
@@ -146,12 +146,12 @@ body {
   /* Safari */
   transition-duration: 0.4s;
   border-radius: 40px;
-  
-  
+
+
 
 }
 .down-button2 {
-  
+
   background-color: #23272a;
   border: none;
   color: rgb(255, 255, 255);
@@ -166,14 +166,14 @@ body {
   transition-duration: 0.4s;
   border-radius: 28px;
   font-family: Helvetica,;
-  
-  
+
+
 
 }
 
 .img-2-h{
   display: none;
-  
+
 }
 
 @media only screen and (max-width: 1024px) {
@@ -186,16 +186,16 @@ body {
   }
   .img-2-h{
     display: block;
-    
-   
+
+
   }
   .text-hero{
     text-align: center;
     position: absolute;
     top: 12%;
-    
-    
-    
+
+
+
   }
   .text-hero-h1{
     font-size: 32px;
@@ -207,7 +207,7 @@ body {
   .hide-part-2 {
     display: none;
   }
-  
+
 }
 @media screen and (max-width: 768px){
   .text-hero{
@@ -215,10 +215,10 @@ body {
     position: absolute;
     top: 12%;
     margin-left: -10%;
-    
-  
-    
-    
+
+
+
+
   }
-  
+
 }

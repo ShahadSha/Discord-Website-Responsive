@@ -269,6 +269,54 @@ body {
   background-color: #f6f6ff;
 
 }
+/* ---------footer----- */
+.iap-b{
+  font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+  line-height: 95%;
+  font-size: 40px;
+  font-weight: 800;
+  
+}
+.footer-main{
+  padding-left: 10%;
+  padding-top: 4%;
+  
+}
+.footer-main h5{
+  font-size: 18px;
+  color: #5865f2;
+  padding-top: 10%;
+  
+}
+.footer-container{
+  height: auto;
+}
+.footer-main a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding-top: 18px;
+}
+.footer-main a:hover{
+  text-decoration: underline;
+}
+.sect-imgs6{
+   padding-left: 11%;
+    position: relative;
+    max-width: 60%;
+    width: 35%;
+    height: auto;
+  
+}
+.flag-sHwnaY {
+  width: 24px;
+  height: 16px;
+  margin-right: 8px;
+  
+}
+.icons{
+  display: flex;
+}
 
 @media only screen and (max-width: 1024px) {
   .hide-part-1 {
@@ -348,6 +396,14 @@ body {
     padding-top: 10%;
     font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
   }
+  .sect-imgs6{
+    padding-left: 11%;
+     position: relative;
+     max-width: 80%;
+     width: auto;
+     height: auto;
+   
+ }
 }
 @media screen and (min-width: 768px){
 

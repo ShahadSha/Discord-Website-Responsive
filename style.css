@@ -14,9 +14,6 @@ body {
   width: 100%;
   background-color: #404eed;
   position: relative;
-  
-  
-
 }
 
 .navbar{
@@ -41,8 +38,6 @@ body {
   text-decoration: none;
   padding-left: 12px;
   font-weight: 600;
-
-
 }
 
 .top-item2:hover {
@@ -71,17 +66,14 @@ body {
 
 .login-button1:hover {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
-
 }
 
 .hide-part-1 {
   white-space: nowrap;
-
 }
 
 .hide-part-2 {
   white-space: nowrap;
-
 }
 
 .offcanvas-end {
@@ -89,7 +81,6 @@ body {
   right: 0;
   width: 330px;
   border-left: 1px solid rgba(0, 0, 0, .2);
-
 }
 
 .offcanvas-end button {
@@ -124,6 +115,7 @@ body {
   top: 40%;
   color: #fff;
   padding-left: 20%;
+  
 
 }
 .text-hero-h1{
@@ -138,7 +130,6 @@ body {
 
 }
 .down-button {
-
   background-color: #fff;
   border: none;
   color: black;
@@ -152,8 +143,6 @@ body {
   /* Safari */
   transition-duration: 0.4s;
   border-radius: 40px;
-
-
 
 }
 .down-button2 {
@@ -172,9 +161,6 @@ body {
   transition-duration: 0.4s;
   border-radius: 28px;
   font-family: Helvetica,;
-
-
-
 }
 
 .img-2-h{
@@ -197,7 +183,7 @@ body {
   max-width: 100%;
   height: auto;
   padding-left: 5%;
-  
+
 }
 .sec-head{
   font-size: 48px;
@@ -228,7 +214,7 @@ body {
   max-width: 100%;
   height: auto;
   padding-left: 10%;
- 
+
 }
 
 .sec-head2{
@@ -244,6 +230,46 @@ body {
   padding-top: 10%;
   font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
+/* section 5 */
+.section-5{
+  height: auto;
+  width: auto;
+  justify-items: center;
+  align-items: center;
+  background-color: #f6f6ff;
+
+}
+.sect-imgs5{
+  padding-left: 10%;
+  position: relative;
+  max-width: 150%;
+  width: 90%;
+  height: auto;
+  
+}
+.sec-head5{
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 95%;
+    padding-top: 8%;
+    font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 900;
+}
+.sec-para5{
+  width: 100%;
+  
+}
+
+/* section 6---------- */
+.section-6{
+  height: 320px;
+  width: auto;
+  justify-items: center;
+  align-items: center;
+  background-color: #f6f6ff;
+
+}
+
 @media only screen and (max-width: 1024px) {
   .hide-part-1 {
     display: none;
@@ -263,23 +289,30 @@ body {
     font-size: 32px;
     font-weight: 700;
   }
+  .sec-head5{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 95%;
+    padding-top: 8%;
+    font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.sec-para5{
+  width: 90%;
+  padding-left: 10%;
+  
+}
   .down-button {
     font-size: 16px;
   }
   .down-button2 {
     font-size: 16px;
   }
-  
-  
-  
 }
 
 @media screen and (min-width: 1024px) {
   .hide-part-2 {
     display: none;
   }
-  
-  
 
 }
 @media screen and (max-width: 768px){
@@ -288,13 +321,12 @@ body {
     position: absolute;
     top: 12%;
     margin-left: -10%;
-
   }
   /* sections */
 
   .sec-head{
     font-size: 24px;
-    font-weight: 700; 
+    font-weight: 700;
     padding-top: 20%;
   }
   .head-para{
@@ -308,7 +340,7 @@ body {
   }
   .sec-head2{
     font-size: 24px;
-    font-weight: 700; 
+    font-weight: 700;
     padding-top: 20%;
   }
   .head-para2{
@@ -316,15 +348,9 @@ body {
     padding-top: 10%;
     font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
   }
-
-  
-  
-  
 }
 @media screen and (min-width: 768px){
 
-  
-  
 }
 
 
